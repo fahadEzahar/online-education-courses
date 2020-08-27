@@ -1,0 +1,17 @@
+.inner{
+    overflow:hidden;
+}
+.images{
+    height: 250px;
+    width : 100%;
+    transition: all 1.5s ease;
+}
+.images:hover{
+    transform: scale(1.5);
+}
+.courseDetails{
+    box-shadow: 5px 10px 10px gray;
+}
+
+
+
